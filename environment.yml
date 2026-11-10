@@ -1,0 +1,19 @@
+name: idt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - pytest
+  - pip
+  - pip:
+      - GEOparse
+      
