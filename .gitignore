@@ -222,3 +222,5 @@ __marimo__/
 # Raw and processed data are downloaded by scripts, never committed
 data/*
 !data/.gitkeep
+# macOS system files
+.DS_Store
